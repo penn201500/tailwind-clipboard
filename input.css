@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.section-container {
+    @apply max-w-6xl mx-auto text-center
+}
+
 body {
     background-image: url("../images/bg-header-desktop.png");
     background-repeat: no-repeat;
