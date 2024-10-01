@@ -8,6 +8,10 @@
     }
 }
 
+.button-container {
+    @apply flex flex-col justify-center w-full space-y-6 text-xl text-white md:flex-row md:space-y-0 md:space-x-4;
+}
+
 .section-container {
     @apply max-w-6xl mx-auto text-center;
 }
