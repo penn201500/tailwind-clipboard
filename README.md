@@ -3,6 +3,8 @@
 
 This repository contains a web-based demo project for a Clipboard application that helps users organize and manage their clipboard snippets across multiple devices. It's used to showcase how to use Tailwind CSS for styling and building a responsive web app.
 
+You can check the demo [here](https://tailwind-clipboard-flax.vercel.app/).
+
 ## File Structure
 
 - **index.html**: Main HTML file that renders the UI and integrates the various features of the app.
