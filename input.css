@@ -35,3 +35,7 @@ body {
         background-image: url("../images/bg-header-mobile.png");
     }
 }
+
+.ficon:hover {
+    filter: invert(50%) sepia(60%) saturate(400%) hue-rotate(120deg) brightness(100%) contrast(90%);
+}
